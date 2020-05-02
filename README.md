@@ -70,7 +70,7 @@ To order your purchase click on **Order** button at the right-bottom corner. The
 
 ## Confirmation page
 There you can *add new pizza to your purchase list*, *remove last pizza* or *confirm your purchase*.\
-There will be your order list and price of it.\
+There will be your order list and price of it.
 ### One More Pizza 
 By clicking **One More Pizza** you will be switched again to the **_order page_** where you can do the same operations listed before  with *another pizza* and *ingredients*. You can do this operation till you **confirm** it.
 ### Remove last PIZZA
